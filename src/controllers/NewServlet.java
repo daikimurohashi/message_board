@@ -39,4 +39,3 @@ public class NewServlet extends HttpServlet {
         rd.forward(request, response);
      }
 }
-
